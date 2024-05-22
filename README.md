@@ -18,11 +18,11 @@ You will be able to:
 
 Now that you have Git installed locally, you'll be often working back and forth between GitHub, a service which hosts Git repositories online, and your local computer. You will first need to [sign up for a GitHub account](https://github.com/signup). Next, to better integrate with GitHub, you should set up your name and email address on your local machine:
 
-1. In your terminal window\*, type `git config --global user.name`
+1. In your terminal window\*, type `git config --global user.name` git config --global user.maureen nkatha
     - If it returns your name, you’re set!
     - If it returns nothing or displays an error message, type `git config --global user.name “Your Name”` - replacing Your Name with your name inside the quotes (this should be your real first and last name, not your GitHub username)
 
-2. In your terminal window, type `git config --global user.email`
+2. In your terminal window, type `git config --global user.email` git cinfig --global user.maureenimanene@gmail.com
     - If it returns your email address, you’re set!
     - If it returns nothing or displays an error message, type `git config --global user.email your@email.com` - replacing your@email.com with your email address
 
